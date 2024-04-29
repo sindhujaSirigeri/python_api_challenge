@@ -1,4 +1,5 @@
-**/api_keys.py
+**api_keys.py
+WeatherPy.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
